@@ -1,6 +1,9 @@
 # About this Project
 
-Describe the project for users.
+This is a simple augmentation of
+[rastasheep/ubuntu-sshd](https://github.com/rastasheep/ubuntu-sshd) that
+includes software necessary for Titan: `sudo` and `rsync`. It is used in
+Titan test automation but is not intended to be a general purpose SSH server.
 
 ## Contributing
 
